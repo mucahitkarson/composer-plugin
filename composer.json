@@ -30,7 +30,7 @@
         }
     ],
     "require": {
-        "composer-plugin-api": "^1.0"
+        "composer-plugin-api": "^1.4.1"
     },
     "autoload": {
         "psr-4": { "app\\composer\\": "" }
